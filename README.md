@@ -27,4 +27,5 @@
  <a href="https://www.linkedin.com/in/outrojao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ### Meu currículo!
-[Curriculo.pdf](https://github.com/outrojao/outrojao/files/11827421/Curriculo.pdf)
+[Currículo.pdf](https://github.com/outrojao/outrojao/files/12794407/Curriculo.pdf)
+
