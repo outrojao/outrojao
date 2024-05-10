@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+João+Victor;Curso+Sistemas+de+Informação+na+PUC-CAMPINAS;Bem-vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <img width="200px" heigth="200px" src="https://user-images.githubusercontent.com/83962074/225768785-5e372a24-b0c9-4ca2-8454-ddff1ed551e5.png"/>
-</div><br>
-
 <div align="center">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=outrojao&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="outrojao github stats" /> 
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outrojao&layout=compact&hide_border=true&theme=midnight-purple" />
