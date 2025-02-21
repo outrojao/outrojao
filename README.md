@@ -5,9 +5,7 @@
 <div align="center">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=outrojao&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="outrojao github stats" /> 
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outrojao&layout=compact&hide_border=true&theme=midnight-purple" />
-</div><br>
-
-[![outrojao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=outrojao&bg_color=000000&color=FFFF00&line=41008C&point=731DD8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br><br>
+</div><br><br>
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)&nbsp;
