@@ -1,6 +1,6 @@
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=outrojao&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="outrojao github stats" /> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outrojao&layout=compact&hide_border=true&theme=midnight-purple" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=outrojao&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="outrojao github stats" /> 
+  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outrojao&layout=compact&hide_border=true&theme=midnight-purple" />
 </div><br><br>
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
