@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=222121&height=120&section=header"/>
-
 <div align="center">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=outrojao&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="outrojao github stats" /> 
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outrojao&layout=compact&hide_border=true&theme=midnight-purple" />
